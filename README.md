@@ -37,11 +37,21 @@ Nesta aula apresenta um modelo de relógio onde contabiliza e modifica a interfa
 
 Nesta aula foi feita um formulário que apresenta dados de saída de acordo com as informações sobre gênero e idade coletadas na inicial.
 
-### Aula 13
+### Aula 14
 
-#### Exercício 01 - 
+#### Exercício 04 - Contar passos
 
-Xxxx.
+Contador de passos com definição para skips pré definidos.
+
+#### Exercício 05 - Tabuada
+
+Inserção de tabuada do número selecionado com saída inteira em select
+
+### Aula 16
+
+#### Exercício 06 - Analisador de Números
+
+Inserção e análise dos números selecionados com saída de maior, menor, soma e média.
 
 
 ---
